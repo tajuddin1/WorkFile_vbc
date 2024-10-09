@@ -181,4 +181,10 @@ body {
         font-size: 24px;
         margin-bottom: 15px;
     }
+    .card-img{
+        text-align: center;
+    }
+    .card-img img {
+        width: 80%;
+    }
 }
