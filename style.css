@@ -8,12 +8,15 @@ body {
     font-family: "Nanum Gothic", sans-serif;
     white-space: nowrap;
 }
-
-.container {
+table{
+    width: 900px;
+    margin: auto;
+}
+/* .container {
     width: 100%;
     max-width: 900px;
     margin: 0 auto;
-}
+} */
 
 .card {
     margin: 10px;
@@ -98,7 +101,7 @@ body {
     mix-blend-mode: multiply;
 }
 
-@media screen and (max-width:890px) {
+/* @media screen and (max-width:890px) {
     .card{
         margin-top: 20px;
         padding: 40px;
@@ -173,11 +176,11 @@ body {
     .card-col.content {
         grid-area: 2;
     }
-    
+
     .card-img{
         text-align: center;
     }
     .card-img img {
         width: 80%;
     }
-}
+} */
