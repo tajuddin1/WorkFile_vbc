@@ -173,14 +173,7 @@ body {
     .card-col.content {
         grid-area: 2;
     }
-    .card-col.content p.desc {
-        font-size: 14px;
-        margin-bottom: 15px;
-    }
-    .card-col.content h1.heading-1 {
-        font-size: 24px;
-        margin-bottom: 15px;
-    }
+    
     .card-img{
         text-align: center;
     }
